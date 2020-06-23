@@ -6,7 +6,7 @@
 
 <br>
 
-The two modules for this assignment are:
+The two modules for this application are:
 
 1. `python_pizza`
 
